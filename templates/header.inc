@@ -1,9 +1,11 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
     <head>
         <title>Denver ARES and CERT, Serving the City and County of Denver, Colorado</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-        <link rel="stylesheet" type="text/css" href="/css/style.css">
+        <!--<link rel="stylesheet" type="text/css" href="/css/style.css">-->
+		<link rel="stylesheet" href="/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="/css/bootswatch.min.css" />
     </head>
     <body>
 
@@ -15,7 +17,30 @@
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-
-<div id="header">
-	<h1>Denver ARES and CERT, Serving the City and County of Denver, Colorado</h1>
-</div>
+  <div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="/" class="navbar-brand">Denver ARES and CERT</a>
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+          <ul class="nav navbar-nav">
+            <li>
+              <a href="index.php?page=about">About</a>
+            </li>
+            <li>
+              <a href="index.php?page=calendar">Calendar</a>
+            </li>
+            <li>
+              <a href="index.php?page=join">Join</a>
+            </li>
+			<li>
+              <a href="index.php?page=contact">Contact</a>
+            </li>
+        </div>
+      </div>
+    </div>

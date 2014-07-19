@@ -1,4 +1,6 @@
-<div id="about">
+<div class="container">
+	<div class="row">
+		<div class="col-lg-12">
 	<h2>Who We Are</h2>
 	<p>
 	  We are a group of well trained volunteers that assist in providing communications and emergency response expertise in emergency situations to 
@@ -35,4 +37,7 @@
 	<p>
 	  If a disastrous event overwhelms or delays the community professional response, citizens can better protect themselves by applying the preparedness skills that they learned during training. These skills can help save and sustain their lives following a disaster until help arrives. "Denver CERT" skills also apply to daily emergencies.
 	</p>
+		</div>
+	</div>
 </div>
+

@@ -1,7 +1,7 @@
 <?php
 include("./templates/header.inc");
 
-include("./templates/left.php");
+#include("./templates/left.php");
 
 $page = "";
 if(!empty($_GET) && $_GET["page"]) {
@@ -35,7 +35,7 @@ switch($page) {
 		break;
 }
 	
-include("./templates/right.inc");
+#include("./templates/right.inc");
 
 include("./templates/footer.inc");
 ?>

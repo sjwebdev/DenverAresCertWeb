@@ -1,4 +1,1 @@
-<div id="event_calendar">
-</div>
-
-<iframe src="https://www.google.com/calendar/embed?src=denverdistrict13%40gmail.com&ctz=America/Denver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<div class="container">	<div class="row">		<div class="col-lg-12">			<h1>Calendar</h1>			<iframe src="https://www.google.com/calendar/embed?src=denverdistrict13%40gmail.com&ctz=America/Denver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>		</div>	</div></div>
