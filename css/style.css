@@ -1,0 +1,115 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	font-family: Arial,Sans-serif;
+}
+
+div#header {
+	padding: 0 10px;
+	background: #47394F;
+}
+
+div#header h1 {
+	margin: 0;
+	font: bold 1.5em Arial,Sans-serif;
+	color: #DCBBF0;
+}
+
+div#left {
+	background: #fafafa;
+	padding: 0 5px;
+	float: left;
+	text-align: right;
+	border-right: 1px solid black;
+}
+
+div#left h2 {
+	margin: 0;
+	padding: 5px 0;
+	font: bold 1em Arial,Sans-serif;
+	color: #DCBBF0;
+}
+
+div#navigation {
+	font: 1em Arial,Sans-serif;
+	padding: 10px 0;
+}
+
+div#navigation a {
+	text-decoration: none;
+	color: #6a6a6a;
+}
+
+div#navigation a:hover {
+	text-decoration: underline;
+	color: #47394F;
+}
+
+div#navigation ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+div#qrz {
+	border-top: 1px solid #DCBBF0;
+}
+
+div#schedule {
+	border-top: 1px solid #DCBBF0;
+}
+
+div#content, div#about, div#event_calendar, div#news, div#photos, div#join, div#contact {
+	margin: 0;
+	padding: 10px;
+	float: left;
+	width: 650px;
+}
+
+div#right {
+  text-align: center;
+	width: 225px;
+	float: right;
+}
+
+div#right h4 {
+	margin: 2em 0 1em 0;
+	font: bold 0.7em Arial,Sans-serif;
+	color: #47394F;
+	text-transform:uppercase;
+}
+
+div#social_buttons {
+  text-align: left;
+	margin: 2em 0;
+}
+
+div#footer {
+	text-align: center;
+	padding: 10px;
+	clear: both;
+	border-top: 1px solid black;
+	background: #fff;
+}
+
+div#sitemap ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+}
+
+div#sitemap li {
+	display: inline;
+}
+
+div#sitemap li a {
+	padding: 0.1em 0.8em;
+	font: bold 0.7em Arial,Sans-serif;
+	color: #6a6a6a;
+}
+
+div#sitemap li a:hover {
+	text-decoration: none;
+	color: #47394F;
+}
