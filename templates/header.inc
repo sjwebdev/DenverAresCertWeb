@@ -21,26 +21,21 @@
       <div class="container">
         <div class="navbar-header">
           <a href="/" class="navbar-brand">Denver ARES and CERT</a>
-          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
         </div>
         <div class="navbar-collapse collapse" id="navbar-main">
           <ul class="nav navbar-nav">
-            <li>
-              <a href="index.php?page=about">About</a>
+            <li class="dropdown">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+		<ul class="dropdown-menu">
+			<li> <a href="index.php?page=about">About</a></li>
+			<li><a href="index.php?page=skywarn">Skywarn&reg;</a></li>
+		</ul>
             </li>
-            <li>
-              <a href="index.php?page=calendar">Calendar</a>
-            </li>
-            <li>
-              <a href="index.php?page=join">Join</a>
-            </li>
-			<li>
-              <a href="index.php?page=contact">Contact</a>
-            </li>
+            <li><a href="index.php?page=training">Training</a></li>
+            <li><a href="index.php?page=calendar">Calendar</a></li>
+            <li><a href="index.php?page=join">Join</a></li>
+	    <li><a href="index.php?page=contact">Contact</a></li>
+	  </ul>
         </div>
       </div>
     </div>

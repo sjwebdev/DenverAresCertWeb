@@ -30,6 +30,12 @@ switch($page) {
 	case "contact":
 		include("templates/contact.inc");
 		break;
+	case "skywarn":
+		include("templates/skywarn.inc");
+		break;
+	case "training":
+		include("templates/training.inc");
+		break;
 	default:
 		include("templates/home.inc");
 		break;

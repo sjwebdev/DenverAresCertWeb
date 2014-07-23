@@ -3,4 +3,8 @@
 <!-- Place this tag after the last +1 button tag. --><script type="text/javascript">(function() {
     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
     po.src = 'https://apis.google.com/js/platform.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);})();</script></div></body></html>
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);})();</script></div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+</body>
+</html>

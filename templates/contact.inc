@@ -1,1 +1,8 @@
-<div class="container">	<div class="row">		<div class="col-lg-12">			<h2>Contact Us</h2>				<p>Inquiries can be made at <a href="mailto:denverdistrict13@gmail.com">denverdistrict13@gmail.com</a> or on our weekly radio net.</p>		</div>	</div></div>
+<div class="container">
+	<div class="row">
+		<div class="col-lg-12">
+			<h2>Contact Us</h2>
+			<p>Inquiries can be made at <a href="mailto:denverdistrict13@gmail.com">denverdistrict13@gmail.com</a> or on our weekly radio net.</p>
+</div>
+</div>
+</div>
