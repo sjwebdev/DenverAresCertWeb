@@ -36,6 +36,9 @@ switch($page) {
 	case "training":
 		include("templates/training.inc");
 		break;
+	case "nets":
+		include("templates/nets.inc");
+		break;
 	default:
 		include("templates/home.inc");
 		break;

@@ -32,6 +32,7 @@
 		</ul>
             </li>
             <li><a href="index.php?page=training">Training</a></li>
+            <li><a href="index.php?page=nets">Radio Nets</a></li>
             <li><a href="index.php?page=calendar">Calendar</a></li>
             <li><a href="index.php?page=join">Join</a></li>
 	    <li><a href="index.php?page=contact">Contact</a></li>
