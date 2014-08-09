@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
     <head>
-        <title>Denver ARES and CERT, Serving the City and County of Denver, Colorado</title>
+        <title>Denver ARES/CERT, Serving the City and County of Denver, Colorado</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <!--<link rel="stylesheet" type="text/css" href="/css/style.css">-->
 		<link rel="stylesheet" href="/css/bootstrap.min.css" />
@@ -20,7 +20,7 @@
   <div class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
-          <a href="/" class="navbar-brand">Denver ARES and CERT</a>
+          <a href="/" class="navbar-brand">Denver ARES/CERT</a>
         </div>
         <div class="navbar-collapse collapse" id="navbar-main">
           <ul class="nav navbar-nav">
