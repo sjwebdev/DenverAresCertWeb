@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-lg-9">
-			<h1>Denver ARES and CERT</h1>
+			<h1>Denver ARES/CERT</h1>
 			<p class="lead">Serving the City and County of Denver, Colorado</p>
 			<center><img src="images/DenverSkyline.jpg" width="450" /></center>
 			<p>We are the Amateur Radio Emergency Service and Community Emergency Response Team serving the City and County of Denver Colorado.</p>
