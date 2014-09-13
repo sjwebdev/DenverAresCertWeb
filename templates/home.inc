@@ -15,6 +15,19 @@
 	</div>		
 </div>
 		<div class="col-lg-3" style="margin-top: 30px;">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <h3 class="panel-title">New HAM or CERT?</h3>
+                </div>
+                <div class="panel-body">
+                    <div class="form-group">
+                        <div class="input-group">
+                            <p><a href="/?page=gettingstarted">Getting started with ARES/CERT</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+		
 			<div class="panel panel-primary">
 			  <div class="panel-heading">
 				<h3 class="panel-title">Upcoming Events</h3>
