@@ -15,17 +15,26 @@
 		<li><a href="http://www.denvergov.org/oem/OfficeofEmergencyManagement/Programs/DenverCommunityEmergencyResponseTraining/tabid/426128/Default.aspx">Denver Community Emergency Response Training</a></li>
 	</ul>
 
-
-
 	<h3>Recommended training for ARES personnel</h3>
-	<p>The following course is availble for a fee at select times throughout the year</p>
+	<p>The following course is free of charge and available at select times throughout the year:</p>
 	<ul>
-		<li><a href="http://www.arrl.org/online-course-catalog">ARRL - Introduction to Emergency Communication (EC-001)</a></li>
 		<li><a href="http://www.crh.noaa.gov/bou/?n=spot_training">Skywarn&reg; Spotter Training</a></li>
 	</ul>
+	
+	<p>The following course is availble for a fee at select times throughout the year:</p>
+	<ul>
+		<li><a href="http://www.arrl.org/online-course-catalog">ARRL - Introduction to Emergency Communication (EC-001)</a></li>
+	</ul>
 
+	<p>The following courses are offered free or charge and on-demand:</p>
+	<ul>
+		<li><a href="https://www.co.train.org/DesktopModules/eLearning/CourseDetails/CourseDetailsForm.aspx?courseid=1021323">Colorado Interoperability Training - Module 1 Radio 101</a></li>
+		<li><a href="https://www.co.train.org/DesktopModules/eLearning/CourseDetails/CourseDetailsForm.aspx?courseid=1027248">Colorado Interoperability Training - Module 2 Interoperability Basics</a></li>
+		<li><a href="https://www.co.train.org/DesktopModules/eLearning/CourseDetails/CourseDetailsForm.aspx?courseid=1027249">Colorado Interoperability Training - Module 3 Colorado Interoperability</a></li>
+	</ul>
+	
 	<h3>Recommended training for ARES/CERT leadership</h3>
-	<p>The following course is availble for a fee and on-demand</p>
+	<p>The following course is availble for a fee and on-demand:</p>
 	<ul>
 		<li><a href="http://www.arrl.org/ec-016-course">ARRL - Public Service and Emergency Communications Management for Radio Amateurs (EC-016) Course</a></li>
 	</ul>
