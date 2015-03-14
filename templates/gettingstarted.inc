@@ -35,7 +35,59 @@
 
 <p>The State ARES net is held on Sunday nights at 2000 hours (8pm) Mountain time on 145.310 pl 123. Thier webpage is also useful and interesting at coloradoares.org</p>
 
-<p>Every night there are 3 NTS (National Traffic System) nets: this is how ‘radio grams’ get passed to and from anywhere there is a ham to send or receive them: these are interesting because you get to hear operators using clear, precise and efficient exchanges. Some of these guys are real old-timers or former military radio operators, so they really know their stuff: great to listen to and learn some tricks for making yourself understood. This is also one of the oldest traditions in HAM radio, and a service that still gets used during emergencies. ARES has more or less moved away from working on these officially, and you won’t normally hear much traffic any more on these nets, but these guys keep checking in every night- real heroes.
+<p>Every night there are the NTS (National Traffic System) nets: this is how ‘radio grams’ get passed to and from anywhere there is a ham to send or receive them: these are interesting because you get to hear operators using clear, precise and efficient exchanges. Some of these guys are real old-timers or former military radio operators, so they really know their stuff: great to listen to and learn some tricks for making yourself understood. This is also one of the oldest traditions in HAM radio, and a service that still gets used during emergencies. ARES has more or less moved away from working on these officially, and you won’t normally hear much traffic any more on these nets, but these guys keep checking in every night- real heroes.</p>
+<p>The Main net is on 145.310 with a pl of 123 every evening at 1930 (7.30 pm).  Traffic is often taken to a different frequency to be passed:</p>
+<table>
+	<tr>
+		<th>Frequency</th>
+		<th>PL Tone</th>
+		<th>Call Sign</th>
+		<th>Organization</th>
+		<th>Location</th>
+		<th>Purpose</th>
+	</tr>
+	<tr>
+		<td>146.640-</td>
+		<td>100</td>
+		<td>WB0TUB</td>
+		<td>Denver Radio League</td>
+		<td>Centennial Cone, Golden</td>
+		<td>off-net handling</td>
+	</tr>
+	<tr>
+		<td>146.970-</td>
+		<td>100</td>
+		<td>KB0SRJ</td>
+		<td>Pikes Peak FM Accos</td>
+		<td>Pikes Peak, Colorado Springs</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>447.525-</td>
+		<td>146.2</td>
+		<td>N0ESQ</td>
+		<td>EmComm Colorado</td>
+		<td>Devil's Head, Castle Rock</td>
+		<td>off-net handling</td>
+	</tr>
+	<tr>
+		<td>448.225-</td>
+		<td>141.3</td>
+		<td>N0SZ</td>
+		<td>Rocky Mountain Ham</td>
+		<td>Squaw Mountain, Idaho Springs</td>
+		<td>off-net handling</td>
+	</tr>
+	<tr>
+		<td>147.54</td>
+		<td>-</td>
+		<td>-</td>
+		<td>Primary Simplex</td>
+		<td>-</td>
+		<td>off-net handling</td>
+	</tr>
+</table>
+
 <ul>
 <li>The Northern Colorado net is at 2000 hours (8pm) every night on 145.115 pl 100</li>
 <li>The Central Colorado net is at 1930 (7.30 pm) on 145.31 pl tone 123</li>
