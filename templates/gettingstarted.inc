@@ -2,7 +2,7 @@
 	<div class="row">
 		<div class="col-lg-12">
 <h1>Getting Started</h1>
-<p>- Glen Newell - KD0KVJ - Operations Section Chief</p>
+<p>- Glen Newell - KD&Oslash;KVJ - Operations Section Chief</p>
 <p>We are very much aware that we have many folks out there who have gone ahead and become licensed HAMs as part of their getting ready for emergencies. The question all of you have been asking is  NOW WHAT?  It's not 100% clear what the next steps are.</p>
 
 <p>We are working on some official training, and some exercises- but in the meantime, I thought it would help to just to offer some ideas and thoughts that might help get you moving in the right directions.</p>
@@ -17,7 +17,7 @@
 
 <p>4. Base/Mobile operating: Right now you most likely have just the HT, which much of the time is enough. But you might be interested in something with a little more power, like being able to operate from your car or home. </p>
  
-<p>To work with most ARES groups and served agencies, you'll need a 'dual-band' radio, one that's capable of working on the 2 meter (144mhz) and 70 cm (440mhz) bands. My personal recommendation is the Yeasu ft-7800/7900: it's fairly inexpensive, easy to find used, and is easy to program in the field. Many ARES organizations like the Kenwood D700/D710 radios, which are also great, but are more expensive. (In DAC several of us have the Yeasu 2900/7900/8900 radios, so its a little easier to get help)</p>
+<p>To work with most ARES groups and served agencies, you'll need a 'dual-band' radio, one that's capable of working on the 2 meter (144mhz) and 70 cm (440mhz) bands. My personal recommendation is the Yaesu FT-7800/7900: it's fairly inexpensive, easy to find used, and is easy to program in the field. Many ARES organizations like the Kenwood D700/D710 radios, which are also great, but are more expensive. (In DAC several of us have the Yaesu 2900/7900/8900 radios, so its a little easier to get help)</p>
 
 <p>- A Mag-mount antenna can be used with a radio in your car, or stuck on a file cabinet or any metal surface in your house, Any 2-meter antenna will also work on 70cm ( though some are better than others). </p>
 
@@ -27,73 +27,70 @@
 
 <h3>Useful frequencies</h3>(repeater frequencies listed use the standard offset, unless otherwise noted)
 
-<p>The Denver ARES/CERT weekly net is held on a frequency of 146.67 with a pl tone of 100 at 1800 hours (6pm) Mountain time each Sunday night. Check out our web page at denver-ares-cert.org <p>
+<p>The Denver ARES/CERT weekly net is held on a frequency of 146.670- with a pl tone of 100 at 1800 hours (6pm) Mountain time each Sunday night. Check out our web page at denver-ares-cert.org <p>
 
-<p>You will often find hams chewing the rag on the Rocky Mountain Repeater League’s 146.94 repeater with a pl tone of 103.5- evenings and weekends are best, of course.</p>
+<p>You will often find hams chewing the rag on the Rocky Mountain Repeater League’s 146.940- repeater with a pl tone of 103.500- evenings and weekends are best, of course.</p>
 
-<p>You might also find people to talk to on 145.49, pl 100- this is the Denver Radio Club’s primary frequency, where the Sunday (8.30 pm) and Wednesday night (7.30 pm)  nets are held- ( Also check out thier web page at w0tx.org: you’ll find lots of great useful stuff there)</p>
+<p>You might also find people to talk to on 145.490-, pl 100 this is the Denver Radio Club’s primary frequency, where the Sunday (8.30 pm) and Wednesday night (7.30 pm)  nets are held- ( Also check out their web page at <a href="http://www.w0tx.org">w0tx.org</a>: you’ll find lots of great useful stuff there)</p>
 
-<p>The State ARES net is held on Sunday nights at 2000 hours (8pm) Mountain time on 145.310 pl 123. Thier webpage is also useful and interesting at coloradoares.org</p>
+<p>The State ARES net is held on Sunday nights at 2000 hours (8pm) Mountain time on 145.310- pl 123. Thier webpage is also useful and interesting at coloradoares.org</p>
 
 <p>Every night there are the NTS (National Traffic System) nets: this is how ‘radio grams’ get passed to and from anywhere there is a ham to send or receive them: these are interesting because you get to hear operators using clear, precise and efficient exchanges. Some of these guys are real old-timers or former military radio operators, so they really know their stuff: great to listen to and learn some tricks for making yourself understood. This is also one of the oldest traditions in HAM radio, and a service that still gets used during emergencies. ARES has more or less moved away from working on these officially, and you won’t normally hear much traffic any more on these nets, but these guys keep checking in every night- real heroes.</p>
-<p>The Main net is on 145.310 with a pl of 123 every evening at 1930 (7.30 pm).  Traffic is often taken to a different frequency to be passed:</p>
-<table>
-	<tr>
-		<th>Frequency</th>
-		<th>PL Tone</th>
-		<th>Call Sign</th>
-		<th>Organization</th>
-		<th>Location</th>
-		<th>Purpose</th>
-	</tr>
-	<tr>
-		<td>146.640-</td>
-		<td>100</td>
-		<td>WB0TUB</td>
-		<td>Denver Radio League</td>
-		<td>Centennial Cone, Golden</td>
-		<td>off-net handling</td>
-	</tr>
-	<tr>
-		<td>146.970-</td>
-		<td>100</td>
-		<td>KB0SRJ</td>
-		<td>Pikes Peak FM Accos</td>
-		<td>Pikes Peak, Colorado Springs</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>447.525-</td>
-		<td>146.2</td>
-		<td>N0ESQ</td>
-		<td>EmComm Colorado</td>
-		<td>Devil's Head, Castle Rock</td>
-		<td>off-net handling</td>
-	</tr>
-	<tr>
-		<td>448.225-</td>
-		<td>141.3</td>
-		<td>N0SZ</td>
-		<td>Rocky Mountain Ham</td>
-		<td>Squaw Mountain, Idaho Springs</td>
-		<td>off-net handling</td>
-	</tr>
-	<tr>
-		<td>147.54</td>
-		<td>-</td>
-		<td>-</td>
-		<td>Primary Simplex</td>
-		<td>-</td>
-		<td>off-net handling</td>
-	</tr>
+<p>The Main net is on 145.310- with a pl of 123 every evening at 1930 (7.30 pm).  Traffic is often taken to a different frequency to be passed:</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>Frequency</th>
+			<th>PL Tone</th>
+			<th>Call Sign</th>
+			<th>Organization</th>
+			<th>Location</th>
+			<th>Purpose</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>146.640-</td>
+			<td>100</td>
+			<td>WB&Oslash;TUB</td>
+			<td>Denver Radio League</td>
+			<td>Centennial Cone, Golden</td>
+			<td>Off-net handling</td>
+		</tr>
+		<tr>
+			<td>146.970-</td>
+			<td>100</td>
+			<td>KB&Oslash;SRJ</td>
+			<td>Pikes Peak FM Association</td>
+			<td>Pikes Peak, Colorado Springs</td>
+			<td>Off-net handling</td>
+		</tr>
+		<tr>
+			<td>447.525-</td>
+			<td>146.2</td>
+			<td>N&Oslash;ESQ</td>
+			<td>EmComm Colorado</td>
+			<td>Devil's Head, Castle Rock</td>
+			<td>Off-net handling</td>
+		</tr>
+		<tr>
+			<td>448.225-</td>
+			<td>141.3</td>
+			<td>N&Oslash;SZ</td>
+			<td>Rocky Mountain Ham</td>
+			<td>Squaw Mountain, Idaho Springs</td>
+			<td>Off-net handling</td>
+		</tr>
+		<tr>
+			<td>147.540</td>
+			<td>-</td>
+			<td>-</td>
+			<td>Primary Simplex</td>
+			<td>-</td>
+			<td>Off-net handling</td>
+		</tr>
+	</tbody>
 </table>
-
-<ul>
-<li>The Northern Colorado net is at 2000 hours (8pm) every night on 145.115 pl 100</li>
-<li>The Central Colorado net is at 1930 (7.30 pm) on 145.31 pl tone 123</li>
-<li>The Southern Colorado net is at 2000 hours ( 8pm) every night on 146.97 pl 100 ( it’s pretty rare to be able to pick this one up clearly from the Denver area)</li>
-</ul>
-</p>
         </div>
     </div>
 </div>
