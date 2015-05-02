@@ -2,7 +2,7 @@
 	<div class="row">
 		<div class="col-lg-12">
 			<h1>Training</h1>
-	<h3>Essential Training for all ARES/CERT personnel</h3>
+	<h3>Essential Training for all ARES personnel</h3>
 	<p>The following courses are all offered free or charge and on-demand:</p>
 	<ul>
 		<li><a href="http://training.fema.gov/EMIWeb/IS/courseOverview.aspx?code=IS-100.b">IS-100.B: Introduction to Incident Command System, ICS-100</a></li>
@@ -33,7 +33,7 @@
 		<li><a href="https://www.co.train.org/DesktopModules/eLearning/CourseDetails/CourseDetailsForm.aspx?courseid=1027249">Colorado Interoperability Training - Module 3 Colorado Interoperability</a></li>
 	</ul>
 	
-	<h3>Recommended training for ARES/CERT leadership</h3>
+	<h3>Recommended training for ARES leadership</h3>
 	<p>The following course is availble for a fee and on-demand:</p>
 	<ul>
 		<li><a href="http://www.arrl.org/ec-016-course">ARRL - Public Service and Emergency Communications Management for Radio Amateurs (EC-016) Course</a></li>

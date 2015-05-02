@@ -22,21 +22,6 @@
 	  communications needs.
 	</p>
 	<p>ARES&reg; and Amateur Radio Emergency Service&reg; are registered trademarks of the American Radio Relay League, Inc. and are used by permission</p>
-	
-	<h2>What is CERT?</h2>
-	<p>
-	  The <a href="http://fema.gov/" title="FEMA">Federal Emergency Management Agency</a> (course #IS317), using the model created by the Los Angeles
-	  Fire Department (LAFD), the <a href="http://www.citizencorps.gov/cert/index.shtm" title="CERT">Community Emergency Response Team</a> concept in
-	  1986. Since then, hundreds of communities across the United States have established their own CERT programs.
-	</p>
-	<p>
-	  The City and County of Denver, Mayor's Office of Emergency Management is using the LAFD model to develop Denver's Community Emergency Response
-    Training (Denver CERT) as a partnering effort between emergency services and the people they serve. The goal is for emergency personnel to train
-    citizens of our community in basic preparedness and skills.
-  </p>
-	<p>
-	  If a disastrous event overwhelms or delays the community professional response, citizens can better protect themselves by applying the preparedness skills that they learned during training. These skills can help save and sustain their lives following a disaster until help arrives. "Denver CERT" skills also apply to daily emergencies.
-	</p>
 		</div>
 	</div>
 </div>

@@ -7,22 +7,22 @@
 			<p>We are the Amateur Radio Emergency Service and Community Emergency Response Team serving the City and County of Denver Colorado.</p>
 	<div class="row">
 		<div class="col-lg-6">
-			<img src="/images/ares-logo.png" class="pull-left" alt="ARES Logo"><p>Denver ARES/CERT is a part of the Rocky Mountain Division, Colorado Section. Our designation is Region 1 District 4.</p>
+			<img src="/images/ares-logo.png" class="pull-left" alt="ARES Logo"><p>Denver ARES is a part of the Rocky Mountain Division, Colorado Section. Our designation is Region 1 District 4.</p>
 		</div>
 		<div class="col-lg-6">			
-<img src="/images/ncr-logo.png" class="pull-left" alt="North Central All HAzards Region Logo"><p>Denver ARES/CERT are also a part of the North Central Region (NCR) All Hazards Region, serving the citizens and agencies of Adams, Arapahoe, Boulder, Broomfield, Clear Creek, Denver, Douglas, Elbert, Gilpin, and Jefferson Counties.</p>
+<img src="/images/ncr-logo.png" class="pull-left" alt="North Central All HAzards Region Logo"><p>Denver ARES are also a part of the North Central Region (NCR) All Hazards Region, serving the citizens and agencies of Adams, Arapahoe, Boulder, Broomfield, Clear Creek, Denver, Douglas, Elbert, Gilpin, and Jefferson Counties.</p>
 		</div>
 	</div>		
 </div>
 		<div class="col-lg-3" style="margin-top: 30px;">
             <div class="panel panel-primary">
                 <div class="panel-heading">
-                    <h3 class="panel-title">New HAM or CERT?</h3>
+                    <h3 class="panel-title">New HAM?</h3>
                 </div>
                 <div class="panel-body">
                     <div class="form-group">
                         <div class="input-group">
-                            <p><a href="/?page=gettingstarted">Getting started with ARES/CERT</a></p>
+                            <p><a href="/?page=gettingstarted">Getting started with ARES</a></p>
                         </div>
                     </div>
                 </div>
